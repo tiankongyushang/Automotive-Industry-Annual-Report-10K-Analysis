@@ -1,0 +1,1191 @@
+Fleet carbon emissions1
+The BMW Group is continually reducing the carbon
+emissions of its fleet of vehicles by equipping them with
+highly efficient engines and electrified drivetrain systems. Thanks to the rigorous deployment of Efficient
+Dynamics technologies, our vehicles also set standards
+in terms of dynamism and driving pleasure.
+In 2014, the volume of carbon emissions produced by
+our vehicle fleet sold in Europe1
+ decreased slightly to
+130 grams CO2 / km (2013: 133 grams CO2 / km; –2.3%).
+The scale of the decrease in fleet emissions in 2014
+was therefore not as pronounced as originally forecast,
+mainly reflecting the impact of a higher-value model
+mix on the one hand and the later-than-planned availability of the new MINI on the other. In the Annual
+Report 2013, we had forecast a “moderate decrease” for
+the financial year 2014.Research and development play a vital role for the BMW
+Group, given its broad range of products and the high
+number of new models. Our vehicles and services also
+set standards in terms of connecting car occupants
+with the outside world. During 2014, a total of 11,779
+employees were engaged throughout the BMW Group’s
+global research and innovation network at twelve locations spread over five countries, to deliver the best
+product quality possible and develop innovative technologies for customers.
+Research and development expenditure for the year decreased by 4.7% to € 4,566 million (2013: € 4,793* million). The research and development ratio was 5.7%,
+0.6 percentage points lower than in the previous year
+(2013: 6.3%). The ratio of capitalised development costs
+to total research and development costs for the period
+(capitalisation ratio) was 32.8% (2013: 36.4%). Amortisation of capitalised development costs totalled € 1,068 million (2013: € 1,069 million). Further information on research and development expenditure is provided in the
+section “Results of Operations, Financial Position and
+Net Assets” and in note 11 to the Group Financial Statements.
+Drive concepts: setting the course for the future
+In line with our commitment to Efficient Dynamics, we
+are working continuously to optimise both our range
+of combustion engines featuring TwinPower turbo technology on the one hand and the various electric motors,
+energy storage and energy management systems for
+electric and plug-in hybrid vehicles developed for BMW
+eDrive on the other. In the long term, the BMW Group
+is also promoting the development of hydrogen-powered
+fuel cell technology as a source of energy.
+The new Efficient Dynamics family of engines, comprising 3-, 4- and 6-cylinder power units, reflects the
+output of a rigorous and consistently applied development process. Higher aluminium content plus the use
+of magnesium (which is even lighter) has enabled the
+BMW Group to significantly reduce the average weight
+of its latest range of engines. The first of this new generation of engines is a 1.5-litre, 3-cylinder petrol engine,
+which has found its first home in the BMW i8. The BMW
+Group also presented the first 4-cylinder versions of
+RESEARCH AND DEVELOPMENT
+the new engine family during the first half of 2014. Due
+to commonalities in the design of our petrol and diesel
+engines, the percentage of identical parts used can be as
+high as 60%, while the structural similarities between
+petrol and diesel engines are around 40%.
+The BMW i8 combines the driving performance of a
+sports car with the fuel consumption of a compact-class
+model. The plug-in hybrid system developed for the
+BMW i8 meets the very highest specifications in terms
+of driving dynamics, efficiency, practical usefulness
+and quality, thus underlining the BMW Group’s technological leadership in the field of drive system development. In the long term, the BMW Group also plans to
+transfer eDrive technology to other core brand models.
+The BMW 3 Series plug-in hybrid prototype unveiled in
+2014 provides a preview of how extreme efficiency can
+be combined with ultimate driving pleasure in the world’s
+most successful premium-class sedan. The prototype
+features a 4-cylinder petrol engine from the new Efficient
+Dynamics family with TwinPower turbo technology
+combined with an electric drive system. The outcome is
+a car that delivers sporty driving dynamics similar to
+being behind the wheel of a conventionally powered
+6-cylinder BMW 3 Series model, but with far lower fuel
+consumption. The possible integration of a plug-in
+hybrid system is already a firm part of our thinking when
+new BMW and MINI models are being developed, thus
+ensuring, among other things, that future model variants
+equipped with hybrid drive technology will be just as
+suitable for everyday use as their standard counterparts.
+The BMW Group took a further step forward in the field
+of powertrain electrification with its presentation in
+2014 of the newly developed range of hybrid drive systems intended for high-performance electric drives
+based on Power eDrive technology. In future-generation
+plug-in hybrid vehicles, around two-thirds of the drive
+system’s output should come from the Power eDrive
+electric system and around one-third from the TwinPower
+turbo technology combustion engine. The BMW Group
+is pressing ahead with the development of batterypowered drive systems (as in the BMW i3) and plug-in
+hybrids, as well as in other areas such as fuel-cell electric
+technology and high-voltage electrified systems (Power
+eDrive). With its wide range of drive systems, the BMW
+Group can and will continue to be able to react flexibly * Prior year figures have been adjusted in accordance with IAS 8, see note 9.
+39 Combined Management Report
+to the needs of customers and new regulations stipulated
+by legislators.
+Intelligently designed lightweight construction
+Lightweight construction is an essential component of
+the BMW Group’s Efficient Dynamics strategy and
+firmly embedded in its basic understanding of modern
+manufacturing. The consistent use of lightweight materials in vehicle design is particularly important with
+electrically powered cars, as not only the battery capacity,
+but also the total weight of the vehicle restrict their
+range. In order to compensate for the added weight of
+the electrical components, the BMW Group has developed its LifeDrive concept for BMW i series vehicles,
+which is firmly committed to the use of lightweight design. In this context, the BMW Group has, for the first
+time, achieved an innovative combination comprising
+an aluminium chassis and a CFRP passenger compartment. Specifically deployed, the material used helps reduce total vehicle weight, optimises its point of gravity
+and increases the stability of the car’s body. The BMW
+Group is currently working on further possible applications, such as hybrid wheel rims comprising a mixture
+of aluminium and CFRP. In the case of the BMW M3
+and M4 models, the high rigidity and low weight of CFRP
+allows the cardan shaft to be manufactured as a single
+piece, without a centre bearing. In addition to achieving
+a 40% weight-saving compared to the previous model,
+a further benefit is that the rotating mass is reduced,
+thus resulting in a further improvement in response behaviour. After more than ten years of intensive research
+work and the continual optimisation of the processes,
+materials, systems and tools involved, the BMW Group
+is currently the only automotive manufacturer with
+the required know-how to utilise CFRP on a large-scale
+production basis.
+Highly automated driving at the limit
+Precise, reliable control of a vehicle when driven at its
+dynamic limit is a key aspect of highly automated driving.
+Only a system that can safely master all dynamic situations, including those encountered when a vehicle is
+driven at its technical limit, will be able to instil trust and
+provide sustained and secure relief for the driver in tiring
+situations.
+The BMW Group has built an innovative, highly automated research prototype, which in 2014 demonstrated
+the utmost safety at the vehicle’s dynamic limit, thanks
+to perfected control technology. On a closed-off racetrack, the BMW test vehicle additionally underlined the
+efficiency of a new generation of control systems, which
+can actively intervene in key driving decisions and
+at the same time coordinate the electrically controlled
+steering with the brake and accelerator. The system
+therefore goes one decisive step further than any of its
+predecessors. With BMW ActiveAssist, the BMW Group
+is playing a pioneering role in implementing safety-related, highly automated systems. Back in October 2009,
+in conjunction with the predecessor research project,
+BMW Track Trainer, the BMW Group drove a highly automated vehicle through the racing line of the “Nordschleife” at the Nürburgring racetrack, one of the most
+demanding circuits in the world. The BMW emergency
+stop assistant research project has delivered further
+valuable findings. If the driver fails to react, for example
+due to a medical emergency such as a heart attack,
+this feature can switch to the highly automated mode,
+steer the vehicle safely to the roadside and automatically
+send an emergency call. Back in 2011, the first BMW
+test vehicle was already driven on a multi-lane motorway using the highly automated mode. Meanwhile, with
+some 20,000 kilometres of testing behind them, the
+development engineers have gathered valuable insights
+into the behaviour and handling strategies of their highly
+automated vehicles.
+Research project “Virtual marketplace of the future”
+Location Based Services enable users to receive information on places of interest, services and events in the
+surrounding area – anytime and anywhere. Even while
+driving, location-based services and other information
+can be a useful supplement, either en route or at your
+destination. For that reason, BMW ConnectedDrive already offers users a whole range of location-based information. In future, the vehicle will be able to present the
+customer with information and items of interest along
+the route, tailored to suit the situation and the user’s
+individual preferences. The premiere of the latest generation of the optional navigation system “Professional”
+in the BMW 2 Series Convertible achieved an even
+higher level of convenience and reliability in terms of
+route guidance. The system, which was first presented
+in 2014, updates its navigation data on a regular basis,
+several times per year, assuming a new version of map
+data is available. The user is required to pay neither 
+40
+18 COMBINED MANAGEMENT REPORT
+18 General Information on the BMW Group
+23 Report on Economic Position
+23 General and Sector-specific
+Environment
+26 Overall Assessment by Management
+26 Financial and Non-financial
+Performance Indicators
+29 Review of Operations
+ 29 Automotive Segment
+ 35 Motorcycles Segment
+ 36 Financial Services Segment
+ 38 Research and Development
+ 40 Purchasing
+ 41 Sales and Marketing
+ 44 Workforce
+ 45 Sustainability
+49 Results of Operations, Financial
+Position and Net Assets
+61 Comments on Financial Statements
+of BMW AG
+64 Events after the End of the
+Reporting Period
+65 Report on Outlook, Risks and
+Opportunities
+82 Internal Control System and Risk
+Management System Relevant for the
+Consolidated Financial Reporting Process
+83 Disclosures Relevant for Takeovers
+and Explanatory Comments
+87 BMW Stock and Capital Markets
+licensing fees nor transmission costs. Via the SIM card
+built into the car, the new map data are sent to the
+vehicle via the mobile network (LTE), without having
+to take the longer route via an external data carrier and
+manual installation.
+Outstanding technology and design
+In the most recent competition for the prestigious “International Engine of the Year Award”, the BMW Group
+was awarded prizes in two different categories. For the
+fourth time now, the 3.0-litre in-line 6-cylinder petrol
+engine featuring BMW TwinPower turbo technology was
+among the main prizewinners. The engine powers
+numerous current BMW models. The 1.6-litre 4-cylinder
+turbo engine, which is fitted in models such as the MINI
+Cooper S Countryman and the MINI Cooper S Paceman,
+was winner in its class for the eighth consecutive time.
+The BMW Group won as many as eight prizes at last
+year’s “Red Dot Award for Product Design”. The “Red
+Dot” went to seven BMW models. Apart from the
+BMW i3, which took the “Red Dot: Best of the Best”
+award and thus the highest accolade for trendsetting
+design, the BMW i8, the 2 Series Coupé, the 3 Series
+Gran Turismo, the 4 Series Coupé and Convertible and
+the BMW R nineT all received prizes. Furthermore,
+the new MINI received an “Honourable Mention”. With
+the “iF product design award”, the BMW i8 was presented with a prize by Industrie Forum Design e. V. for
+its innovative design. The greatest appreciation, however, was accorded to the BMW i3, which won the “iF
+product design award Gold”. Further awards went to
+the X5, the 2 Series Coupé, the 4 Series Coupé, the 3 Series Gran Turismo and the BMW R nineT in the category “Product, transportation design / special vehicles”.
+The primary focus of the BMW Group’s purchasing and
+logistics activities is to achieve an optimal balance of
+quality, innovation, flexible supply structures and competitive cost. In this context, we therefore go to great
+lengths to design the supply chain with our business
+partners, thus ensuring that we can react rapidly and
+flexibly at all times to fluctuations in order volumes, even
+within a volatile environment.
+Numerous model start-ups
+2014 saw the start-up of 13 new BMW and MINI brand
+models. Most of the BMW start-ups were concentrated
+on Europe and the NAFTA region. The production start
+of the new X4 at the Spartanburg plant resulted in a
+broader supplier base within the NAFTA region. Close
+collaboration with external business partners and the
+BMW Group’s own in-house component production
+team resulted in the introduction of numerous innovations, many of them relating to the BMW i8.
+Increasing importance of NAFTA region
+During the year under report, the construction of a new
+plant in San Luis Potosí (Mexico) with a planned annual
+manufacturing capacity of 150,000 units was announced.
+This move is in line with the strategy of ensuring globally balanced growth. For the BMW Group, it will also
+entail a further increase in NAFTA-based purchases in
+the coming years, whilst at the same time contributing
+to currency hedging. In view of these developments,
+the BMW Group’s decentralised organisational structures in the NAFTA region have been strengthened and
+newly aligned.High level of investment safeguards productivity
+and technology lead
+The Purchasing and Supplier Network is also responsible
+for component production throughout the BMW Group.
+The importance of the Landshut plant as a competence
+centre for lightweight construction was underlined by
+the expansion of CFRP production facilities at the site.
+The Landshut plant also serves as a centre for electromobility-related components, including, for instance,
+production of the electric motors and engine transmission
+units for the BMW i3 and i8. Important chassis and
+drive components for the BMW i models are produced
+at the Dingolfing plant.tart-up of Rolls-Royce Ghost Series II
+The Rolls-Royce Ghost Series II has been in the showrooms since the autumn with a moderately revised
+design and continues to combine smooth, understated
+performance with contemporary luxury.
+In 2014, Rolls-Royce Motor Cars added ten dealerships
+to its sales network, an important step in its aspiration
+to strengthen its position in the ultra-luxury segment.
+New approach to communications with #BMWstories
+BMW is breaking new ground in communications
+with #BMWstories. The online platform www.bmw.
+com / BMWstories offers a broad spectrum of communication channels. These include films and photo galleries depicting the special features of BMW models.
+Since #BMWstories started in May 2014, the online
+platform has received more than 3.5 million hits. Over
+200 million interactions have already taken place in
+social media. The published videos have been viewed
+over 36 million times.
+Successful launch of BMW i 360°ELECTRIC
+With BMW i 360°ELECTRIC, BMW currently offers a
+comprehensive package of products and services for
+purely battery-powered and plug-in hybrid vehicles in
+38 countries worldwide. The package is based on four
+features: comfortable, rapid, emissions-free charging at
+home; simple comprehensive access to public charging
+stations; flexible mobility for long-distance journeys
+and an Assistance Service for maintenance and repairs.
+BMW offers two types of product for charging at home:
+in addition to the Wallbox Pure for simple, safe charging,
+the Wallbox Pro has been available since 2014 for more
+rapid availability.
+Development of connected mobility
+The BMW Group further extended its connected mobility services in 2014. In total, BMW ConnectedDrive services were introduced in a further eleven markets, as a
+result of which they are now available in 36 countries worldwide. In the meantime, 95% of all new vehicles in
+the BMW fleet are equipped with an integrated SIM
+card.
+In addition to its intelligent emergency call feature,
+which already offers a broader range of functions than
+the E-call required by EU legislation as from 2016, the
+customer can benefit from a large number of innovative services. These include the Concierge Call, which
+is available around the clock and – if required – looks
+up addresses and feeds them directly into the navigation system or makes reservations directly. In addition, the real-time traffic information (RTTI) or the remote functions, for example, offer useful support for
+the driver.
+In addition, further distribution channels have been
+established for mobility services. During the year under
+report, the ConnectedDrive Store opened not only in
+the pilot markets of Belgium and Luxembourg, but also
+in Germany. For the first time in the premium segment,
+services can therefore be ordered quickly and easily via
+a PC or even directly from the vehicle, and used straight
+away. The ConnectedDrive Store therefore grants access not only to new vehicles but also to used vehicles
+equipped with ConnectedDrive.
+BMW i sales model
+To coincide with the market launch of the BMW i3 in
+Europe and Japan, a direct sales model was successfully
+introduced in these markets. Over 200 selected BMW i
+partners offer BMW i brand vehicles. In addition, the
+BMW i models are available in selected direct sales markets via new distribution channels – including via the
+Customer Interaction Centre (CIC), which has been successfully introduced in nine markets. In four markets
+to start with, the Mobile Sales Advisor (MSA) has also
+become a fixed component of the BMW i sales model.
+The integrated BMW i online sales platform enables customers to order their BMW i3 via the Internet, too. The
+new sales channels provide customer-friendly access to
+the BMW i range of products and services. In the showrooms, the Product Genius in operation at all BMW i
+partners also contributes to comprehensive product
+advice.
+Premium services for individual mobility
+Beyond its innovative electric and hybrid cars, BMW i
+also stands for sustainable mobility concepts. The aim
+of the mobility services is to promote urban mobility,
+irrespective of the means of transport used.
+43 Combined Management Report
+DriveNow, the car-sharing service offered by BMW i,
+MINI and Sixt, enables users to rent BMW and MINI
+vehicles according to their needs. Via an app, the website or directly on the road, it is a simple matter for users
+to find, book and park the cars again in another part
+of the city. The DriveNow service is currently available
+in Munich, Berlin, Düsseldorf, Hamburg, Cologne, San
+Francisco, Vienna and, since December 2014, in London,
+too. The fleet currently consists of about 2,800 cars. At
+the end of 2014, over 390,000 customers had benefited
+from the premium car-sharing service. Under the brand
+name AlphaCity, we also offer a car-sharing scheme
+for businesses. Up to November 2014, 10,000 registered
+employees had used the AlphaCity service.
+ParkNow is an app- and Web-based service, which helps
+resolve parking problems for users. On the one hand,
+parking spaces are available to customers in partner car
+parks which can be booked online. On the other hand,
+the service makes it easier to find roadside parking spots.
+ChargeNow is the BMW i mobility service that simplifies finding and using public charging stations run by
+various suppliers belonging to an international network. In 2014, a large proportion of BMW i customers
+opted for this service. ChargeNow currently has over
+24,000 charging points at its disposal in 19 markets.
+BMW i Ventures was founded back in 2011 to ensure
+optimum conditions for the use and promotion of innovative mobility services. Based in New York, BMW i
+Ventures facilitates access to new technologies and opens
+up new customer groups, thereby reinforcing the strategic approach adopted by BMW i. Life360, MyCityWay,
+JustPark, ChargePoint and ChargeMaster are examples
+of some of BMW i Ventures’ strategic investments.
+Customer services remain on track in 2014
+In 2014, sales of BMW and MINI spare parts, accessories
+and services were well up on the previous year’s level,
+with the major markets in the USA, Germany and China
+making a decisive contribution to this performance.
+Growth was also registered in many other markets, such
+as Russia, Korea and South Africa. The dynamic growth
+in business goes hand in hand with investments in the
+future logistics network and with many other measures
+aimed at boosting customer satisfaction.
+New premium experience in showrooms
+By 2017, the Future Retail programme will be implemented worldwide with a view to enhancing the premium experience of our brands and products.Sustainable management
+Sustainability for the BMW Group means making a
+lasting positive contribution to economic success, thus
+creating added value for the business. Manufacturing
+with efficient and resource-friendly production processes and offering customers state-of-the-art solutions
+for sustainable individual mobility gives the BMW
+Group a competitive advantage. Our employees play a
+vital role in this context with their personal commitment and ideas, a fact borne out, for example, by the
+€ 31 million saved in 2014 alone in conjunction with
+the ideas management system in place throughout the
+BMW Group. Our commitment to sustainable management and our aspiration for social responsibility along
+the entire value chain are firmly embedded within the
+BMW Group.
+As well as requiring social and ecological aspects to be
+taken into account in internal decision-making processes, the BMW Group’s sustainability management
+system involves the systematic analysis of external factors and a continual dialogue with our stakeholders.
+Materiality process
+Global megatrends such as urbanisation or climate
+change have an impact on both regulatory conditions
+and customer requirements, causing new fields of
+business to arise. In order to recognise any such
+changes in good time, we regularly perform a review
+using our materiality process. In this context, we analyse the importance of challenges on society, both from
+the point of view of different stakeholder groups and
+from an internal BMW Group perspective. The results
+of the materiality analysis – shown in the materiality
+matrix – form the basis for our regular verification of
+the direction our sustainability strategy is taking.
+Sustainability ratings
+In 2014 the BMW Group was able to maintain its position as most sustainable premium manufacturer in the
+automotive industry and again secured excellent placings in widely regarded ratings. In the Dow Jones Sustainability Indices (DJSI), for instance, the BMW Group
+took first place in the Automobiles sector. The BMW
+Group is therefore the only enterprise in this sector to
+have been listed in the index without interruption since
+its inception. In the Global 500 rating of the Carbon
+Disclosure Project (CDP), we again achieved 100 out of
+a possible 100 points for transparent reporting and the
+best mark for climate protection measures, thus retaining
+our leading position again in 2014. Based on this result,
+the BMW Group is listed with the highest performance
+score “A” in the global Climate Performance Leadership Clean production
+The BMW Group improves resource efficiency by integrating environmental management in all of its production processes. Since 2006 we have reduced both the
+volume of resources utilised and the emissions per vehicle produced by an average of 45.0%.*The BMW Group again reduced the energy consumption per vehicle produced by 4.7% to 2.25 MWh during
+the period under report. One of the measures that contributed towards the efficiency improvement was the
+utilisation of intelligent energy data management. It is a
+component of the BMW Group’s “Industrie 4.0” production concept and based on intelligent electricity meters that continually measure the energy consumption
+levels of production facilities and robots and compare
+them with a centralised corporate network for the purpose of detecting and avoiding, at the earliest possible
+stage, any deviations that lead to excessive electricity
+consumption.
+The utilisation of highly efficient, ecologically sustainable combined heat and power plants (CHPs) and the
+use of electricity generated from renewable sources at
+our production sites, as well as improved energy efficiency measures, enabled us to reduce CO2 emissions
+per vehicle produced by a further 2.9% year-on-year to
+0.66 tonnes during the period under report.
+At 2.18 m³ per vehicle produced, water consumption
+was maintained at a stable low level. At 0.47 m³ the same
+applies to the volume of process wastewater generated
+per vehicle produced.
+The volume of non-recyclable production waste was
+further reduced to 4.93 kg per vehicle produced in 2014,
+an improvement of 14.0%. A number of measures contributed towards this development, one of which was
+an additional improvement in the treatment of washing water used in the production of passenger car brake
+discs at the Berlin plant.
+Solvent emissions were sharply curtailed by 18.9%
+to 1.29 kg per vehicle produced during 2014, which is
+mainly due to the fact that in the Chinese plant in
+Dadong*
+ the retrofitting of the paint shop with an exhaust air cleaning system was reflected in full-year
+statistics for the first time.
+*
+ Joint venture BMW Brilliance Automotive Ltd., Shenyang.
+Sustainability along the entire value chain
+Sustainability criteria also play a major role in the selection and assessment of our suppliers as well as in the
+field of transport logistics. The active management of
+sustainability risks along the supplier chain reduces compliance and image risks. With this in mind, the BMW
+Group has integrated a comprehensive system of sustainability management in its purchasing processes.
+The amount of energy needed for transportation worldwide has risen considerably in recent years. In order to
+keep CO2 emissions to an absolute minimum, we adhere
+to the principle “production follows the market”. Moreover, we are continually increasing the percentage of
+low-carbon modes of transport we use. In total, 63.3%
+of all new vehicles left our plants by rail during the twelvemonth period under report (2013: 60.7%).
+Fleet CO2 emissions again reduced
+For many years now, the use of our Efficient Dynamics
+technologies in series production has enabled us to
+continually reduce the CO2 emissions generated by our
+vehicles. Again in 2014, further progress was made in
+the electrification of our fleet with the introduction of
+the BMW i8 plug-in hybrid sports car and the launching
+of the BMW i3 in additional key markets. These measures form the basis for complying with legally stipulated
+CO2 and fuel consumption limits going into the future.The current high level of volatility prevailing in many
+economies continues to have an unsettling impact on
+markets and consumers. Many emerging economies are
+currently performing below their full potential. The
+eurozone is still having to cope with a range of structural
+problems, such as those evident in Greece.
+The slowing of economic growth in China, one of the
+BMW Group’s principal markets, also continues to pose
+a major risk. Upheavals in the property or banking sector
+in this region could result in reduced demand for our
+products and services.
+Any escalation of political conflicts (such as in Russia),
+terrorist activities, natural disasters or possible pandemics could have a negative impact on the world economy and international capital markets. The BMW Group
+counters these risks primarily by internationalising its
+sales and production structures, in order to reduce the
+potential impact of risk exposures in individual countries. Political and global economic risks are determined
+by analysing historical data and applying a cash-flow-atrisk approach.
+If risks from this category were to materialise, they
+could – due to sales volume fluctuations – have a high
+impact on results of operations over the two-year assessment period. Overall, the risk amounts attached
+to political and global economic risks are classified as
+high.
+Political and global economic opportunities
+Despite the high level of risk involved, the BMW Group
+sees an opportunity for above-average growth in the
+Chinese market. In addition to the impact from economic developments, the BMW Group’s earnings can
+also be positively affected in the short to medium term
+by changes in the legal environment. A possible reduction in tariff barriers, import restrictions or direct excise duties could lower the cost of materials for the
+BMW Group, also enabling products and services to be
+offered to customers at lower prices. Another factor to
+consider is that regulatory support for forward-looking
+technologies, such as electromobility, help to make
+the total cost of ownership more attractive for customers
+in the form of incentives. Developments of this kind
+open up opportunities to achieve faster market penetration for these technologies, which could, in turn, lead
+to higher sales volumes and, all other things being equal,
+result in an improved quality of earnings. Changes in
+the legal environment are monitored continuously at a
+centralised level. At present, however, the BMW Group
+does not see any significant political and / or global economic opportunities, which could have a positive sustainable impact on its earnings performance.
+Strategic and sector risks and opportunities
+New regulations and the development of fuel and energy
+prices also influence various aspects of our business,
+including customer behaviour. Medium- and long-term
+targets have already been put in place in Europe, North
+America, Japan, China and other countries to minimise
+fuel consumption and CO2 emissions.
+Strategic and sector risks
+One of the main risks for the automobile industry is
+the possible threat of short-term tightening of laws and
+regulations, including local registration restrictions. In
+some cases, changes in customer behaviour are not only
+brought on by new regulations, but also through changes
+of opinion, values and environmental issues. Among
+other factors, global climate change is having an effect
+on legislation, regulations and consumer behaviour. In
+order to meet structural changes in the demand for
+individual mobility that no longer necessarily entail
+actually owning a vehicle, the BMW Group is offering
+corresponding mobility services, such as the DriveNow
+car-sharing model.
+With its Efficient Dynamics concept, the BMW Group
+is playing a pioneering role in the premium segment in
+reducing both fuel consumption and emissions. With
+effect from 2013, our range of products was expanded
+to include electric powertrains in BMW i series vehicles.
+These innovations also make an important contribution
+in our endeavours to fulfil statutory rules and requirements in terms of CO2 emissions. The BMW Group is
+investing in the development of sustainable drive technologies and materials, with the aim of providing highly
+efficient vehicles for individual mobility in the premium
+segment, both now and in the future.
+Employees make a vital contribution to sustainable
+growth and improved profitability through their innovative skills. One prerequisite for this is a consistent
+strategic approach to the management of human resources, even in the event of changes in the legal framework. The BMW Group has appropriate measures in 
+74
+18 COMBINED MANAGEMENT REPORT
+18 General Information on the BMW Group
+18 Business Model
+20 Management System
+23 Report on Economic Position
+23 General and Sector-specific
+Environment
+26 Overall Assessment by Management
+26 Financial and Non-financial
+Performance Indicators
+29 Review of Operations
+49 Results of Operations, Financial
+Position and Net Assets
+61 Comments on Financial Statements
+of BMW AG
+64 Events after the End of the
+Reporting Period
+65 Report on Outlook, Risks and
+Opportunities
+65 Outlook
+70 Report on Risks and Opportunities
+82 Internal Control System and Risk
+Management System Relevant for the
+Consolidated Financial Reporting Process
+83 Disclosures Relevant for Takeovers
+and Explanatory Comments
+87 BMW Stock and Capital Markets
+place for such eventualities. Risk amounts and earnings
+impact are measured on the basis of extensive scenario
+analyses.
+If risks from the strategic and sector category were to
+materialise, they could have a medium impact on results
+of operations over the two-year assessment period. The
+amounts of risk attached to strategic and sector-specific
+risks are classified as medium.
+Strategic and sector opportunities
+Additions to the product and mobility portfolio and
+expansion in growth regions are seen as the most important opportunities for growth in the medium to
+long term for the BMW Group.
+Remaining on growth course depends above all else on
+the ability to develop innovative products and bring
+them to market. The launching of the BMW i brand opens
+up new customer target groups for the BMW Group and
+consolidates the position of BMW as a sustainable and
+forward-looking brand. BMW i products can be seen as
+“empowerment projects” for new technologies and processes, which will also benefit other vehicle concepts.
+The existing product portfolio has been expanded by the
+addition of mobility services such as DriveNow, ChargeNow and ParkNow. The general acceptance of, and
+sales volumes generated with, planned future product
+innovations could be better than predicted in the outlook. In the short term, however, any potential positive
+impact is classified as not material.
+The long-term trend towards greater sustainability provides opportunities to boost sales of sustainable products and, under the right circumstances, achieve better
+selling prices. Innovations – such as the BMW i3 and i8
+in the field of electromobility or Efficient Dynamics
+across the entire BMW Group product portfolio – provide excellent platforms for future growth. Potential
+is also seen by engaging in new product and market
+categories and by developing new customer target
+groups. New business models and cooperation arrangements with the BMW Group’s growing network of
+business partners often provide the best means to take
+advantage of these opportunities. Good examples of
+this are the implementation of the 360°ELECTRIC portfolio in the field of electromobility, the partnership with
+SIXT in the field of mobility services and collaboration
+with Toyota on a hydrogen fuel cell system.
+The BMW Group is constantly refining the tools it uses
+to recruit employees, encourage career development and
+bind employees to the enterprise. Within this environment, employees find the optimal situation in which to
+develop their skills. If these measures generate greater
+benefits than currently expected, the BMW Group’s revenues, results of operations and cash flows could be
+positively impacted and forecasted figures surpassed.
+Creating a successful performance culture and the development of the expertise and skill sets of both staff and
+managers alike throughout the organisation could also
+have a positive impact on revenue and profitability.
+Given the long lead times involved, the BMW Group’s
+earnings performance is unlikely to benefit over the assessment period from efficiency improvements or from
+the implementation of product and process developments
+to a significantly greater extent than that already incorporated in the outlook.
+Risks and opportunities relating to operations
+Production and technology-related risks
+Production stoppages and downtimes – in particular
+due to fire, but also those attributable to manufacturing
+equipment breakdowns, logistical disruptions or new
+vehicle production line start-ups – represent risks which
+the BMW Group counters with a broad range of appropriate measures. Production structures and processes
+are designed from the outset with a view to reducing
+potential damage and the probability of occurrence. In
+addition to technical fire protection measures, the BMW
+Group has implemented an array of strategies, including
+preventative maintenance, land development measures
+including contingencies against flooding, spare parts
+management on a multi-site basis and backup plans
+for alternative transportation. The level of risk is also
+reduced by the deployment of flexible work-schedule
+models and employee time accounts, but also by the
+ability to build specific models at additional sites if
+necessary. Moreover, risks arising from business interruption and loss of production as a consequence of fire
+are also insured up to economically reasonable levels
+with insurance companies of good credit standing.
+If risks from the production and technology-related risks
+category were to materialise, they could have a high impact on the results of operations over the two-year assessment period. The level of risk attached to prouction
+and technology-related issues is classified as medium.
+75 Combined Management Report
+Production and technology-related opportunities
+In addition to the risks involved, we firmly believe that
+the choice of sites for new production facilities also
+creates a wealth of opportunities. Selecting a new location goes hand in glove with the opportunity to shape
+the local environment in a positive way (e. g. job creation, training, corporate social responsibility (CSR) projects). Our aim is to continue our commitment to sustainability whenever a new site is selected. We therefore
+endeavour to incorporate flagship projects at our production sites that have a clear focus on sustainability
+(e. g. wind turbines in Leipzig). The option of offsetting
+capacities between BMW Group sites is always kept in
+mind if production technologies can be employed to
+achieve greater efficiency in the use of resources.
+Compared to the outlook, efficiency improvements are
+unlikely to have a significantly greater impact over
+the two-year assessment period than that already incorporated in the outlook.
+Purchasing risks
+Close cooperation between carmakers and automotive
+suppliers creates economic benefits on the one hand,
+but also raises levels of dependency on the other. The
+increasing trend towards modular-based production
+with a set of common architectures covering various
+models and product lines exacerbates the consequences
+of the loss of a supplier or failure to supply on time.
+As part of the supplier preselection process, the BMW
+Group is careful to ensure that its future business partners meet the same high ecological, social and corporate governance standards by which the BMW Group is
+generally measured. Suppliers are assessed on the basis
+of the BMW Group Sustainability Standard, which is
+applied throughout our supplier network worldwide.
+This set of fundamental principles and standards covers
+both production and non-production aspects relevant
+for the goods and services provided by suppliers, which
+also includes compliance with internationally recognised
+human rights and applicable labour and social standards. The principal tool for ensuring compliance with
+the BMW Group Sustainability Standard is a threestage sustainability and risk management approach comprising a BMW Group-specific sustainability risk filter,
+a sustainability questionnaire and a sustainability audit.
+In addition, the technical and financial capabilities of
+suppliers – especially those supplying for modular-based
+production – are continuously monitored during both
+the development and production phases of the Group’s
+vehicles. Particular attention is paid to the quality of the
+parts. In order to attain the level of quality required, it
+may become necessary to invest in new technological
+concepts or discontinue planned innovations, with the
+consequence that the cost of materials could exceed
+levels incorporated in the outlook. Supplier sites are assessed for exposure to natural hazards, such as floods
+or earthquakes, in order to identify supply risks at an
+early stage and implement appropriate countermeasures.
+Production problems incurred by suppliers could have
+adverse consequences for the BMW Group, ranging
+from increased expenditure through to production interruptions and a corresponding reduction in sales
+volume.
+Raw materials management procedures are in place to
+mitigate the risk of a production interruption due to
+shortages of supplies of critical raw materials. In order
+to reduce supply risks, the BMW Group works hard
+to reduce the input of raw materials or to use alternative
+raw materials as a substitute.
+If purchasing risks were to materialise, they could have
+a high impact on the BMW Group’s results of operations over the two-year assessment period. The level
+of risk attached to supply risks is classified as high,
+mainly due to the insufficient availability of raw materials
+in Asia.
+Risks relating to sales and marketing
+Changes in global economic conditions and increasingly
+protectionist trends are among the factors that could
+result in lower demand as well as fluctuations in the regional spread and composition of sales in terms of vehicles and mobility services. Risks relating to these
+developments can be reduced with the aid of flexible
+selling and production processes. At the same time, increased pressure on selling prices and margins caused
+by intense competition on the world’s markets, particularly in Western Europe, the USA and China, requires
+constant analysis, including keeping an eye on developments in grey market volumes from the USA to China.
+Selling price and margin risks are determined on the
+basis of past experience and changing global economic
+conditions, with risk exposures measured using a cashflow-at-risk model.
+If sales and marketing risks were to materialise, they
+could have a high impact on the BMW Group’s results
+of operations over the two-year assessment period. The
+level of risk attached to sales and marketing risks is
+classified as high.
+76
+18 COMBINED MANAGEMENT REPORT
+18 General Information on the BMW Group
+18 Business Model
+20 Management System
+23 Report on Economic Position
+23 General and Sector-specific
+Environment
+26 Overall Assessment by Management
+26 Financial and Non-financial
+Performance Indicators
+29 Review of Operations
+49 Results of Operations, Financial
+Position and Net Assets
+61 Comments on Financial Statements
+of BMW AG
+64 Events after the End of the
+Reporting Period
+65 Report on Outlook, Risks and
+Opportunities
+65 Outlook
+70 Report on Risks and Opportunities
+82 Internal Control System and Risk
+Management System Relevant for the
+Consolidated Financial Reporting Process
+83 Disclosures Relevant for Takeovers
+and Explanatory Comments
+87 BMW Stock and Capital Markets
+Opportunities relating to sales and marketing
+Opportunities may arise due to other technical innovations relating to products and processes and as a result
+of organisational changes. In the field of lightweight
+construction, for example, carbon was being put to use
+in high volumes for the first time in the automobile industry in the construction of the BMW i3.
+Since carbon could also be used in other vehicle projects,
+we see further competitive advantages in terms of fuel
+consumption and driving dynamics, which could, in
+turn, have a positive impact on sales volume growth. The
+opportunities will not have a material impact over the
+assessment period on the results of operations of the
+BMW Group.
+The BMW Group focuses its selling capacities primarily
+on markets with the greatest sales volume and revenue
+potential and fastest growth rates. Investment in existing
+and new marketing concepts is firmly aimed at intensifying relationships with customers. A good example is
+the new marketing concept for BMW i products and
+services, which will be offered in selected markets in the
+future via an innovative multi-channel model. There
+will be no relaxing of efforts in the active search for new
+opportunities to create even greater added value for
+customers than currently expected, whilst at the same
+time looking for ways to boost sales volumes and achieve
+better selling prices. Developments in the field of digital communication and networking are also opening
+up opportunities for marketing the BMW Group’s
+various brands. Consumers can meanwhile be reached
+on a more targeted and individual basis, thus helping to
+strengthen long-term relationships and brand loyalty.
+The BMW Group keeps track of the latest developments
+and trends in communication technology, including
+the use of social media and networks, in order to extend
+customer reach for its brands. Automotive-related business activities of technology companies are also closely
+followed (autonomous driving). The BMW Group’s
+brands are present on numerous platforms, such as
+Facebook, YouTube and Twitter. Thanks to its intensive
+efforts in this area, the BMW Group is registering faster
+growth rates on the various platforms than its competitors, measured in terms of the number of fans and
+visits. The decisive advantage of digital communication
+is that the brands are able to engage in a direct dialogue with customers and thus create a more intense
+product and brand experience.
+The BMW Group considers that these opportunities will
+not have a material impact on the results of operations
+over the two-year assessment period compared to the
+assumptions made in the outlook.
+Risks relating to pension obligations
+The BMW Group’s pension obligations to its employees
+resulting from defined benefit plans are measured on
+the basis of actuarial reports. Future pension payments
+are discounted by reference to market yields on highquality corporate bonds. These yields are subject to market fluctuation and therefore influence the level of pension obligations. Changes in other parameters, such as
+rises in inflation and longer life expectancy, also impact
+pension obligations and payments. Opportunities and
+risks arise depending on the nature and scale of changes
+in these parameters.
+Most of the BMW Group’s pension obligations are administered in external pension funds or trust arrangements and the related assets are kept separate from Company assets. The amount of funds required to finance
+pension payments out of operations in the future is
+therefore substantially reduced, since most of the Group’s
+pension obligations are settled out of pension fund assets. The pension assets of the BMW Group comprise
+interest-bearing securities, equities, real estate and other
+investment classes. Pension fund assets are monitored
+continuously and managed on a risk-and-yield basis.
+A broad spread of investments also helps to reduce risk.
+In order to reduce fluctuations in pension funding
+shortfalls, investments are structured to coincide with
+the timing of pension payments and the expected pattern of pension obligations. Remeasurements on the
+obligations and fund asset sides are recognised, net of
+deferred taxes, in “Other comprehensive income” and
+hence directly in equity (within revenue reserves).
+If risks relating to pension obligations were to materialise, they could have a high impact on the BMW
+Group’s results of operations over the two-year assessment period. The level of risk attached to risks relating
+to pension obligations is classified as high.
+Opportunities relating to pension obligations
+Within a favourable capital market environment, the
+return generated by pension assets may exceed expectations and reduce the deficit of the relevant pension
+plans. This, in turn, could have a materially favourable 
+77 Combined Management Report
+impact on the net assets position and earnings performance of the BMW Group.
+Further information on risks in conjunction with pension provisions is provided in note 36 to the Group
+Financial Statements.
+Information, data protection and IT risks
+The importance of electronically processed data continues to rise, with information technology (IT) playing
+an increasingly crucial role in every aspect of the
+business. These developments create opportunities on
+the one hand, whilst also posing a source of risk on the
+other.
+The BMW Group could incur damage if the confidentiality, integrity and / or availability of sensitive information and data are not maintained. Great importance is
+attached to the protection of business information and
+of employee and customer data against unauthorised
+access and / or misuse. Data security, based on International Security Standard ISO / IEC 27001, is an integral
+component of all business processes. Personal data is
+protected in accordance with the stringent requirements
+of the EU Data Protection Directive and the Federal
+Data Protection Act (Bundesdatenschutzgesetz – BDSG).
+All employees are required to treat confidential information (such as customer and employee data) in an appropriate manner, ensure that information systems are
+properly used and that risks are handled with the utmost transparency. Uniform requirements, documented
+in a coordinated and comprehensive set of principles,
+guidelines and work instructions, are applicable groupwide. Regular communication and sensitisation-raising activities create a high degree of security and risk
+awareness among the employees involved. Employees
+receive training to ensure compliance with applicable
+requirements and in-house rules.
+Risk management procedures include systematic documentation of all information / data protection and IT
+risks, regular monitoring and the implementation of
+appropriate measures by the departments responsible.
+Technical data protection procedures include virus scanners, firewall systems, access controls at both operating
+system and application level, regular data backups and
+data encryption. Regular analyses and controls (including the testing of data protection requirements) and
+rigorous security management ensure a high level of
+security.
+Responsibility for data protection in each Group entity
+lies with the Board of Management (of BMWAG) or
+the relevant company management team. Local Data
+Privacy Protection Officers are embedded in each of the
+Group’s entities. In the case of cooperation arrangements and business partner relationships, the BMW
+Group protects its intellectual property as well as customer and employee data by stipulating clear instructions with regard to data protection and the use of
+information technology. Information pertaining to key
+areas of expertise as well as sensitive personal data
+are subject to particularly stringent security measures.
+In a clear signal to employees, customers and Europe’s
+data protection authorities that data protection is taken
+very seriously, the Board of Management of BMWAG
+resolved a set of Binding Corporate Rules (BCR) that
+ensure the secure transfer of personal data throughout
+the BMW Group’s global organisation. The BMW Group
+has become the first car manufacturer worldwide to
+successfully complete the relevant BCR recognition procedures.
+The requirements placed on IT facilities – both externally
+and internally – are changing at a breathtaking pace in
+the face of technological developments. Potential risks
+are therefore investigated continuously and appropriate
+measures put in place to prevent or minimise their impact. Despite regular testing and the whole gamut of
+preventative security measures employed, it is nevertheless impossible to rule out risks completely in this area.
+If information, data protection and IT risks were to materialise, they are only likely to result in a minor impact
+on the results of operations over the two-year assessment period. The levels of risk attached to information,
+data protection and IT risks are classified as medium.
+Information, data protection and IT opportunities
+Conversely, the deployment of information technology
+also opens up many opportunities. New approaches
+to production and energy supply systems that are currently being investigated in the context of “Industrie
+4.0” are generating significant efficiency improvements
+and resulting in greater sustainability. The range of 
+78
+18 COMBINED MANAGEMENT REPORT
+18 General Information on the BMW Group
+18 Business Model
+20 Management System
+23 Report on Economic Position
+23 General and Sector-specific
+Environment
+26 Overall Assessment by Management
+26 Financial and Non-financial
+Performance Indicators
+29 Review of Operations
+49 Results of Operations, Financial
+Position and Net Assets
+61 Comments on Financial Statements
+of BMW AG
+64 Events after the End of the
+Reporting Period
+65 Report on Outlook, Risks and
+Opportunities
+65 Outlook
+70 Report on Risks and Opportunities
+82 Internal Control System and Risk
+Management System Relevant for the
+Consolidated Financial Reporting Process
+83 Disclosures Relevant for Takeovers
+and Explanatory Comments
+87 BMW Stock and Capital Markets
+services and apps on offer to customers through BMW
+ConnectedDrive is constantly being expanded and updated.
+The opportunities arising from the deployment of information technology are not expected to have a material
+positive impact during the two-year assessment period
+compared to the assumptions made in the outlook.
+Financial risks and opportunities
+Currency risks and opportunities
+As an internationally operating enterprise, the BMW
+Group conducts business in a variety of currencies, thus
+giving rise to currency risks and opportunities. Since a
+substantial portion of Group revenues is generated outside the eurozone (particularly in China and the USA)
+and the procurement of production material and funding
+is also organised on a worldwide basis, fluctuations in
+exchange rates can play a significant role for Group
+earnings. Cash-flow-at-risk models and scenario analyses
+are used to measure currency risks and opportunities.
+Operational currency management is based on the results
+provided by these tools. In 2014 the Chinese renminbi,
+the US dollar, the British pound, the Russian rouble and
+the Japanese yen constituted approximately 75% of the
+total foreign currency exposure of the BMW Group, with
+the Chinese renminbi and the US dollar accounting for
+the lion’s share of foreign currency transactions. The
+BMW Group manages currency risks at both strategic
+(medium and long term) and operating level (short
+and medium term). Medium- and long-term measures
+include increasing production volumes in non-euroregion countries (natural hedging) and increasing purchase volumes denominated in foreign currencies.
+Constructing new plants in countries such as the USA,
+China or Brazil have also helped reduce foreign currency exposures. Currency risks are managed in the
+short to medium term and for operational purposes by
+means of hedging. Hedging transactions are entered
+into only with financial partners of good credit standing.
+Opportunities are also secured through the deployment
+of options. A description of the methods applied for
+risk measurement and hedging is provided in note 43
+to the Group Financial Statements. Counterparty risk
+management procedures are carried out continuously
+in order to monitor the creditworthiness of business
+partners.
+If currency risks were to materialise, they could have a
+high impact on the BMW Group’s results of operations
+over the two-year assessment period. A high level of
+risk is attached to currency risks. Significant opportunities can arise if currency developments are favourable
+for the BMW Group.
+If the relevant recognition criteria are fulfilled, derivatives used by the BMW Group are accounted for as
+hedging relationships. Further information on risks in
+conjunction with financial instruments is provided in
+note 43 to the Group Financial Statements.
+Risks and opportunities relating to raw materials
+Changes in prices of raw materials are monitored on the
+basis of a set of well-defined management procedures.
+The principal objective of these management processes
+is to increase planning reliability for the BMW Group.
+Price risks and opportunities relating to precious metals
+(platinum, palladium, rhodium) and non-ferrous metals
+(aluminium, copper, lead), and, to some extent, to steel
+and steel ingredients (iron ore, coking coal) and energy
+(gas, electricity) are hedged using financial derivatives
+and / or supply contracts with fixed pricing arrangements.
+A description of the methods applied for risk measurement and hedging is provided in note 43 to the Group
+Financial Statements.
+If risks relating to raw materials were to materialise,
+they could have a medium impact on the BMW Group’s
+results of operations over the two-year assessment
+period. A high level of risk is attached to risks relating
+to raw materials.
+Conversely, significant opportunities can arise if prices
+of raw materials develop favourably for the BMW Group.
+If the relevant recognition criteria are fulfilled, derivatives used by the BMW Group are accounted for as
+hedging relationships. Further information on risks in
+conjunction with financial instruments is provided in
+note 43 to the Group Financial Statements.
+Liquidity risks
+Based on experience gained during the financial crisis,
+a minimum liquidity concept has been developed and
+is rigorously adhered to. Solvency is assured at all times
+throughout the BMW Group by maintaining a liquidity
+reserve and by the broad diversification of refinancing
+sources. The liquidity position is monitored continuously at a separate entity level and managed by means 
+79 Combined Management Report
+of cash flow requirements and sourcing forecast system in place throughout the Group. Liquidity risks may
+be reflected in rising refinancing costs. They may also
+manifest themselves in restricted access to funds as a
+consequence of the general market situation or the default of individual banks. The major part of the Financial Services segment’s credit financing and lease business is refinanced on capital markets. Thanks to its
+excellent creditworthiness, the BMW Group has good
+access to financial markets and, as in previous years,
+was able to raise funds at good conditions in 2014, reflecting a diversified refinancing strategy and the solid
+liquidity and earnings base of the BMW Group. Internationally recognised rating agencies have additionally
+confirmed the BMW Group’s solid creditworthiness.
+If liquidity risks were to materialise, they are only likely
+to result in a low impact on the BMW Group’s results
+of operations over the two-year assessment period.
+The risk of incurring liquidity risk is classified as low –
+including the risk of the BMW Group’s rating being
+downgraded and any ensuing deterioration in financing
+conditions.
+If the relevant recognition criteria are fulfilled, derivatives used by the BMW Group are accounted for as
+hedging relationships. Further information on risks in
+conjunction with financial instruments is provided in
+note 43 to the Group Financial Statements.
+Risks and opportunities relating to Financial Services
+The categories of risk relating to the provision of financial services are credit and counterparty risk, residual
+value risk, interest rate risk, liquidity risk and operational risk. In order to evaluate and manage these risks,
+a variety of internal methods has been developed
+based on regulatory environment requirements (such
+as Basel III) and which comply with both national and
+international standards. A set of strategic principles
+and rules derived from regulatory requirements serves
+as the basis for risk management within the Financial
+Services segment. At the heart of the risk management
+process is a clear division between front- and back-office activities and a comprehensive internal control system. The key risk management tool employed within
+the Financial Services segment is aimed at ensuring
+that the Group’s risk-bearing capacity is not exceeded.
+In this context, all risks (defined as “unexpected losses”)
+must be covered at all times by an appropriate asset
+cushion in the form of equity capital. Unexpected losses
+are measured using a variety of value-at-risk techniques,
+adapted to each relevant risk category. Risks are aggregated after taking account of correlation effects. The
+total amount of risks calculated in this way is then compared with the resources available to cover risks (asset
+cushion). The segment’s risk-bearing capacity is monitored continuously with the aid of an integrated limit
+system which also differentiates between the various risk
+categories. The segment’s total risk exposure was
+covered at all times during the past year by the available
+risk-coverage volumes.
+Credit and counterparty risks and opportunities
+Credit and counterparty default risk arises within the
+Financial Services segment if a contractual partner (i. e.
+a customer or dealer) either becomes unable or is only
+partially able to fulfil its contractual obligations, such
+that lower income is generated or losses incurred. The
+Financial Services segment uses a variety of rating
+systems in order to assess the creditworthiness of its
+contractual partners. Credit risks are managed at the
+time of the initial credit decision on the basis of a calculation of the present value of standard risk costs and
+subsequently, during the term of the credit, by using a
+range of risk provisioning techniques to cover risks
+emanating from changes in customer creditworthiness.
+In this context, individual customers are classified by
+category each month on the basis of their current contractual status, and appropriate levels of allowance
+recognised in accordance with that classification. If
+economies develop more favourably than assumed in
+the outlook, there is a chance that credit losses may be
+reduced and earnings improved accordingly.
+If credit and counterparty risks were to materialise, they
+could have a medium impact on the BMW Group’s
+results of operations over the two-year assessment period. The level of risk attached to credit and counterparty risks is classified as high. The BMW Group classifies potential opportunities in this area as material.
+Residual value risks and opportunities
+Risks and opportunities arise at the end of the contractual term of a lease if the market value of the leased vehicle differs from the residual value calculated at the inception of the lease and factored into the lease payments.
+80
+18 COMBINED MANAGEMENT REPORT
+18 General Information on the BMW Group
+18 Business Model
+20 Management System
+23 Report on Economic Position
+23 General and Sector-specific
+Environment
+26 Overall Assessment by Management
+26 Financial and Non-financial
+Performance Indicators
+29 Review of Operations
+49 Results of Operations, Financial
+Position and Net Assets
+61 Comments on Financial Statements
+of BMW AG
+64 Events after the End of the
+Reporting Period
+65 Report on Outlook, Risks and
+Opportunities
+65 Outlook
+70 Report on Risks and Opportunities
+82 Internal Control System and Risk
+Management System Relevant for the
+Consolidated Financial Reporting Process
+83 Disclosures Relevant for Takeovers
+and Explanatory Comments
+87 BMW Stock and Capital Markets
+A residual value risk exists if the expected market value
+of the vehicle at the end of the contractual term is lower
+than its residual value at the date the contract is entered
+into. Each vehicle’s market value is forecast on the basis
+of historical external and internal data and used to predict the expected market value of the vehicle at the end
+of the contractual period. As part of the process of
+managing residual value risks, a calculation is performed
+at the inception of each contract to determine the present value of risk costs. Market developments are observed throughout the contractual period and the risk
+assessment updated appropriately.
+If residual value risks were to materialise, they could have
+a high impact on Group earnings over the two-year
+assessment period. The impact on the segments affected
+would be on a medium scale. The level of risk is classified as high for the Group as a whole. The BMW Group
+classifies potential residual value opportunities as
+material.
+Interest rate risks and opportunities
+Interest rate risks in the Financial Services segment relate
+to potential losses caused by changes in market interest
+rates and can arise when fixed interest rate periods for
+assets and liabilities recognised in the balance sheet do
+not match. Interest rate risks in the Financial Services
+line of business are managed by raising refinancing funds
+with matching maturities and by employing interest rate
+derivatives.
+If interest rate risks were to materialise, they are only
+likely to result in a low impact on the BMW Group’s
+results of operations over the two-year assessment
+period. The level of risk attached to interest rate risks
+is classified as medium.
+The BMW Group classifies potential interest rate opportunities as material.
+Liquidity and operational risks
+Use of the “matched funding principle” to finance the
+Financial Services segment’s operations eliminates
+liquidity risks to a large extent. Regular measurement
+and monitoring ensure that cash inflows and outflows
+from transactions in varying maturity cycles and currencies offset each other. The relevant procedures are incorporated in the BMW Group’s target liquidity concept.
+Operational risks are defined in the Financial Services
+segment as the risk of losses arising as a consequence of
+the inappropriateness or failure of internal procedures
+(process risks), people (personnel-related risks), systems
+(infrastructure and IT risks) and external events (external risks). These four categories of risk also include related legal and reputation risks. The comprehensive recording and measurement of risk scenarios, loss events
+and countermeasures in the Operational Risk Management Suite (OpRisk-Suite) provides the basis for a systematic analysis and management of potential and / or actual
+operational risks. Annual self-assessments are also carried out.
+If operational risks were to materialise, they are only
+likely to result in a low impact on the BMW Group’s
+results of operations over the two-year assessment
+period. The level of risk attached to operational risks
+is classified as medium.
+Legal risks
+Compliance with the law is a basic prerequisite for the
+success of the BMW Group. Current law provides the
+binding framework for the BMW Group’s various business activities around the world. The growing international scale of operations of the BMW Group, the complexity of the business world and the whole gamut of
+complex legal regulations increase the risk of laws not
+being adhered to, simply because they are not known or
+fully understood.
+The BMW Group has established a Compliance Organisation aimed at ensuring that its representative bodies,
+managers and staff act in a lawful manner at all times.
+Further information on the BMW Group’s Compliance
+Organisation can be found in the section “Corporate
+Governance”.
+Like all internationally operating enterprises, the BMW
+Group is confronted with legal disputes relating, in particular, to warranty claims, product liability, infringements of protected rights, and proceedings initiated
+by government agencies. Any of these matters could,
+among other outcomes, have an adverse impact on the
+Group’s reputation. Such proceedings are typical for
+the sector and can arise as a consequence of realigning
+product or purchasing strategies to suit changed market
+conditions. Particularly in the US market, class action
+lawsuits and product liability risks can have substantial
+financial consequences and cause damage to the Group’s
+public image. The BMW Group recognises appropriate
+levels of provision for lawsuits. A part of these risks, 
+81 Combined Management Report
+particularly regarding the US market, is insured where
+this makes business sense. Some risks, however, cannot
+be assessed in full or completely defy assessment. It
+cannot be ruled out that losses from damages could
+arise which are either not covered or not fully covered
+by insurance policies or provisions.
+The high quality of the Group’s products, which is ensured by regular quality audits and ongoing improvement
+measures, helps to reduce this risk. In comparison with
+competitors, this can give rise to benefits and opportunities for the BMW Group.
+If legal risks were to materialise, they are only likely to
+have a low impact on the BMW Group’s results of operations over the two-year assessment period. The level of
+risk attached to legal risks is classified as low. This assessment also includes consideration of risks arising from
+ongoing court and arbitration proceedings. However, it
+cannot be ruled out that new legal risks, as yet unidentified, could materialise which could have a high impact
+on the BMW Group’s results of operations and financial
+condition.
+Overall assessment of the risk and
+opportunities situation
+The overall risk assessment is based on a consolidated
+view of all significant individual risks and opportunities.
+In view of the growing level of strategic and sector-specific risks, the overall risk situation for the BMW Group
+has increased marginally compared to the previous year.
+In addition to the risk categories described above, it is
+possible that unforeseeable events could have an adverse impact on the BMW Group’s results of operations,
+financial position and net assets as well as its reputation.
+We have created a comprehensive risk management
+system that ensures we can master risks. In addition,
+the opportunities described above could potentially
+help the BMW Group to achieve its targets and forecasts.
+From today’s perspective, management does not see any
+threat to the BMW Group’s going-concern status. As
+in the previous year, identified risks are considered to
+be manageable, but could – just like opportunities –
+have an impact on the BMW Group’s forecasts if they were
+to materialise. The BMW Group’s liquidity is stable and
+all cash requirements are currently covered by available
+funds and accessible credit lines.
